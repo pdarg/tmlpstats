@@ -39,7 +39,7 @@
     "fetch-ponyfill": "^3.0.0",
     "font-awesome": "^4.7.0",
     "google-libphonenumber": "^3.0.8",
-    "highcharts": "^6.1.0",
+    "highcharts": "^9.0.0",
     "html5shiv": "^3.7.3",
     "immutable": "^3.8.1",
     "jquery": "^3.4.1",
