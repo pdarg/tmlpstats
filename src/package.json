@@ -46,7 +46,7 @@
     "jquery-easy-loading": "^1.2.0",
     "jstz": "^1.0.9",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "normalizr": "^2.2.1",
     "object-assign": "^4.1.0",
     "prop-types": "^15.5.10",
